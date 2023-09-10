@@ -13,4 +13,6 @@ int main()
     character_age = 10000;
     printf("He really liked the name %s.\n", character_name);
     printf("But did not like being %d.\n", character_age);
+
+    return 0;
 }
